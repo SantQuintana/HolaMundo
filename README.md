@@ -1,5 +1,5 @@
-# HolaMundo
-Mi primer repositorio de prueba
+# Hola_Mundo
+Mi primer repositorio.
 
 Autor: Santiago Quintana
 Fecha: 05/02/2022
